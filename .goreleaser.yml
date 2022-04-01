@@ -33,12 +33,13 @@ changelog:
     exclude:
       - '^docs:'
       - '^test:'
-# brews:
-#   - tap:
-#       owner: zcong1993
-#       name: homebrew-tap
-#     folder: Formula
-#     homepage: https://github.com/zcong1993/add-staged
-#     description: xxx
-#     test: |
-#       system "#{bin}/add-staged -v"
+
+brews:
+   - tap:
+       owner: zcong1993
+       name: homebrew-tap
+     folder: Formula
+     homepage: https://github.com/zcong1993/add-staged
+     description: xxx
+     test: |
+       system "#{bin}/add-staged -v"
