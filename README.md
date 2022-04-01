@@ -1,6 +1,6 @@
-# template-go-cli
+# add-staged
 <!--
-[![Go Report Card](https://goreportcard.com/badge/github.com/zcong1993/template-go-cli)](https://goreportcard.com/report/github.com/zcong1993/template-go-cli)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zcong1993/add-staged)](https://goreportcard.com/report/github.com/zcong1993/add-staged)
 -->
 
 > my go project

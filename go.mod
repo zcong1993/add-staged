@@ -1,4 +1,4 @@
-module github.com/zcong1993/template-go-cli
+module github.com/zcong1993/add-staged
 
 go 1.17
 
