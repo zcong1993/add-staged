@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname "$0")/_/husky.sh"
+
+goimports -l -w . && go vet ./...
+golangci-lint run
+go run main.go
